@@ -9,7 +9,7 @@
 {"city" : "Munich",  	"mascot" : "Cowboys",		"short" : "MUN", 	"homeText" : "FFC125",	"homeMain" : "000000",	"homeSecondary" : "000000",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFC125"},
 {"city" : "Carlstad", 	"mascot" : "Crusaders",			"short" : "CC", 	"homeText" : "000000",	"homeMain" : "BC3242",	"homeSecondary" : "BC3242",	"awayText" : "CD0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Stockholm", 	"mascot" : "Mean Machines",		"short" : "SMM", 	"homeText" : "FFFFFF",	"homeMain" : "2121A3",	"homeSecondary" : "CD0000",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
-{"city" : "Kuopio",   	"mascot" : "Steelers",		"short" : "KUO", 	"homeText" : "CD0000",	"homeMain" : "000000",	"homeSecondary" : " FFFFFF",	"awayText" : "CD0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Kuopio",   	"mascot" : "Steelers",		"short" : "KUO", 	"homeText" : "CD0000",	"homeMain" : "000000",	"homeSecondary" : "FFFFFF",	"awayText" : "CD0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Helsinki", 	"mascot" : "Roosters",		"short" : "ROO", 	"homeText" : "FFFFFF",	"homeMain" : "CD0000",	"homeSecondary" : "CD0000",	"awayText" : "CD0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Copenhagen",  	"mascot" : "Towers",	  	"short" : "CPH", 	"homeText" : "ADADAD",	"homeMain" : "630F97",	"homeSecondary" : "000000",	"awayText" : "630F97",	"awayMain" : "FFFFFF",  "awaySecondary" : "CFCFCF"},
 {"city" : "Thonon",    	"mascot" : "Black Panthers",			"short" : "TBP", 	"homeText" : "000000",	"homeMain" : "515B5A",	"homeSecondary" : "80FFFF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFFFFF"},
